@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+}
+#main-head{
+    background-color: red;
+    color: whitesmoke;
+}
+.main-section{
+    background-color: greenyellow;
+}
+p{
+    color: aliceblue;
+}

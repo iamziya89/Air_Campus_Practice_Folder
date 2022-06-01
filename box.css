@@ -1,0 +1,17 @@
+.box1{
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    border: 20px solid red;
+    margin-left: 50px;
+}
+.box2{
+    height: 35px;
+    width: 35px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 20px solid black;
+    margin-top: 40px;
+    box-shadow: 0 0 45px green;
+
+}

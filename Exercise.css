@@ -1,0 +1,12 @@
+h1{
+    background-color: #cdcdcd;
+    text-align: center;
+    padding: 15px;
+}
+section.about-me,section.about-lilly{
+    border: 2px solid black;
+    padding: 10px 10px 10px 10px;
+}
+.about-me{
+    margin-bottom: 40px;
+}
